@@ -15,14 +15,4 @@
     ![mock-up1](mock-up1.png)
     ![mock-up2](mock-up2.png)
 
-**Bonuses**
 
--   Add animations to your game.
--   Add sound to your game.
-
-### Rules
-
--   This is an individual assignment.
--   Deadline: 3 Hrs.
--   Use **Git properly**
--   Feel free to document your code with comments.
