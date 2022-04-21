@@ -1,5 +1,3 @@
-## Instructions for students:
-
 ### Create a Tic-Tac-Toe game
 
 - To start your project clone the Tic-Tac-Toe-starter.
