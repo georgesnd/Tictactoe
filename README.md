@@ -10,9 +10,3 @@
 - Display the information when a player wins. The players should have the option to restart the game.
 
 -   SASS is included in the starter package but you could use CSS instead.
-
--   Images for reference:
-    ![mock-up1](mock-up1.png)
-    ![mock-up2](mock-up2.png)
-
-
