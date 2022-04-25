@@ -1,5 +1,5 @@
 ### Create a Tic-Tac-Toe game
-* My solution to the class exercise tictactoe.
+# My solution to the class exercise tictactoe.
 
 - To start your project clone the Tic-Tac-Toe-starter.
 - You will get the board for your game and some functionality.
